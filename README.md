@@ -69,9 +69,3 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset of your c
 ---
 
 
-### 📣 **Let’s Connect!**
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) to discuss more about Data Science and projects.
-
----
-
-**#DataScience #Internship #SkillCraftTechnology #EDA #Python #Kaggle #TitanicDataset #Visualization #Colab #DataCleaning #Insights**
